@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "van-checkbox-group": "/static/vant/checkbox-group/index",
+    "van-checkbox": "/static/vant/checkbox/index",
+    "van-card": "/static/vant/card/index",
+    "van-submit-bar": "/static/vant/submit-bar/index"
+  },
+  "navigationBarTitleText": "购物车"
+}
